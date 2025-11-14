@@ -149,7 +149,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Modified Binary Search
 
-- [ ] [Binary Search](https://leetcode.com/problems/binary-search/)
+- [x] [Binary Search](https://leetcode.com/problems/binary-search/)
 
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
@@ -331,11 +331,11 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [x] [Level Order Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 
-- [ ] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+- [x] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 
 - [ ] [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 
-- [x] [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
+- [ ] [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
 
 - [ ] [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
 
