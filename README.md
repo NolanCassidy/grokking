@@ -1,11 +1,13 @@
 # Mapping the new Grokking Coding Interview Patterns course to LeetCode
 
 ## Personalized Mock Interview
+
 You can use this custom GPT to do a sample interview.
 
 🚀 **[Start Your Mock Interview Now!](https://chat.openai.com/g/g-ngDadz7qM-mock-interviewer)** - Improve your interview skills with personalized AI feedback! 🤖 (Requires ChatGPT Plus)
 
 ## Personalized Interview Mentor
+
 This custom GPT is useful to teach you about different concepts.
 
 🚀 **[Software Interview Mentor](https://chat.openai.com/g/g-n76b8bWJo-software-interview-mentor)** - Learn about different concepts! 🤖 (Requires ChatGPT Plus)
@@ -13,6 +15,7 @@ This custom GPT is useful to teach you about different concepts.
 Some sample tutorial materials generated using this custom GPT are available here: [Tutorials](https://navidre.github.io/new_grokking_to_leetcode/tutorial/)
 
 ## System Design Maestro
+
 🚀 **[System Design Maestro](https://chat.openai.com/g/g-UgkUg8KV6-system-design-maestro)** - Custom GPT for practical System Design! 🤖 (Requires ChatGPT Plus)
 
 ## Repository Information
@@ -24,10 +27,12 @@ Pull requests and issues are welcome!
 It is helpful to have all the progress and code in one place. Some prefer this place to be LeetCode. Grokking the Coding Interview has been a good course in the learning and problem-solving process. There already exist different gists mapping the older Grokking to equivalent Leetcode problems, such as [this gist](https://gist.github.com/tykurtz/3548a31f673588c05c89f9ca42067bc4). Educative introduced a new version of this course in 2022. This repository can be helpful for people who want to have a map from the new 2022 grokking course to Leetcode. This is a community effort, so pull requests and issues are appreciated!
 
 Tracking checkboxes can be used by forking this repository and marking an X inside the appropriate brackets. Here is an example:
+
 - [ ] Unsolved
-- [X] Solved
+- [x] Solved
 
 ## Sliding Window
+
 - [ ] [Find Maximum in Sliding Window](https://leetcode.com/problems/sliding-window-maximum/)
 
 - [ ] [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/)
@@ -45,13 +50,14 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 ## Two Pointers
+
 - [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
 - [ ] [Sum of Three Values](https://leetcode.com/problems/3sum-closest/)
 
 - [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
-- [ ] [Sort Colors](https://leetcode.com/problems/sort-colors/) 
+- [ ] [Sort Colors](https://leetcode.com/problems/sort-colors/)
 
 - [ ] [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 
@@ -299,7 +305,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 
-- [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+- [x] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 
 - [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 
@@ -323,13 +329,13 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Tree Breadth First Search
 
-- [ ] [Level Order Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [x] [Level Order Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 
 - [ ] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 
 - [ ] [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 
-- [ ] [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
+- [x] [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
 
 - [ ] [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
 
@@ -472,6 +478,3 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [ ] [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
 - [ ] [Add Binary](https://leetcode.com/problems/add-binary/)
 - [ ] [Multiply Strings](https://leetcode.com/problems/multiply-strings)
-
-
-
