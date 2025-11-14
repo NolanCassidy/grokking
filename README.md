@@ -153,7 +153,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
-- [ ] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+- [x] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 
 - [ ] [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
 
